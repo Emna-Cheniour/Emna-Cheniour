@@ -17,10 +17,11 @@
   <h3>Hello :blush:, My name is Emna Cheniour and I'm a Full Stack Web Developer</h3>
 <hr>
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="250"/>
 </div>
 <hr>
-  :sparkler: <b> About Me </b>:
+  <h3> :sparkler: About Me: </h3>
+  &nbsp;
   <ul>
 <li> :woman_technologist: I’m a Fourth Year Software Engineering Student at National Institute of Applied Science and Technology ( INSAT ). </li>
     <li> :computer: I am an Enthusiastic Learner with huge Passion in Web Development. </li>
@@ -29,7 +30,8 @@
   </ul>
 <hr>
 
-  :toolbox: <b> Tech Stack </b>:
+  <h3> :toolbox: Tech Stack: </h3>
+  &nbsp;
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
