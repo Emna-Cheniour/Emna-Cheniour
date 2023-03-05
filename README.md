@@ -25,7 +25,7 @@
   <ul>
 <li> :woman_technologist: I’m a Fourth Year Software Engineering Student at National Institute of Applied Science and Technology ( INSAT ). </li>
     <li> :computer: I am an Enthusiastic Learner with huge Passion in Devops and I'm always eager to learn and explore new technologies. </li>
-    <li> 🖥️: On GitHub, you can find some of my recent projects. </li>
+    <li> 🖥️: I am currently working on <a href="https://github.com/Emna-Cheniour/MicroMap" alt="MicroMap">MicroMap </a> which is a Microservices architecture mapping with Neo4j, Terraform and AWS . </li>
     <li> :books: I like reading Books in my spare time, my Favorite author is <em>Paulo Coelho</em> </li>
 <li> :diamond_shape_with_a_dot_inside: 3 Words that describe me the most: Persevering, Enthusiastic, Committed. </li>
   </ul>
